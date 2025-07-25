@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "seamstressmanager",
+  "private_key_id": "b1871541abaf510650a9cde998814de65cb61d91",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDQXawW0wM3nP4u\nVFhRN4ZsPzPIpn+YNdmlXfTK6P0svVi/bpAmc/Zp2gsAQtUas2TLfyiP1AdogRZ9\nm/HdaHLqP1u8LzlSLx/uP/Y07Lz+Q/i7OErbEC5Ad04MVv+8OE6dXPItQ1E6CMKZ\n/YHabH6Y81ktNShnBXkEXHsu6F4QoRKV0Z9EnwMk+T70HSCGLRwbMxLN02p7mHzB\nu+oYhp6nVR0Uk+wGM9DJc/SZVkB1PtXIpo8CUpPVwdPIgjqmXo1mNtV4pq5/VXcw\nnA61HBJ0EYXqOL0e41/WlMR/zhXFSZdGKMwJk+4ndWAoHf29Jlb32Fl8AkE29T9G\noRLTP8CZAgMBAAECggEADLqELjrCug19m4/sez2kmQ09WRcOuVokywzTzOdxu99v\nQfZ7mNXBqlK3FFOA2Co4UJQagrrFnxUvrgmuO0PLrVKkhHjwC/yz+yZuIGqL2w6E\n7c7xB7PT131SR7+yzKk16DgK1UgE+MIbPTP20ESLcUWAX5odNznm3CTYI5PvVx2b\nfZRQVjQGp0nC3ks2+UXRNNKEWSoOdV2OUS5IB4tFFL/4JKkjjRAe4QQOc9+27gSW\nsAQnvz4sSoYdurPgVh1vPj0kedJXS5gN7g0rqhkrc4AdZXnu9iAKw2NCuvZVTtrx\nUFRkBsGFFxfDn/jRTULbMWVhQqygng9CTaYQ5SYbgQKBgQD+6bCciMMaPrKfUjw+\nmnT3AAVAGe3+OMUmWJmaxtlBwgk63qAXq3FE9xtkOGkIoplr9DjIuPenaKRt7HBr\n5h+HMSs/MiUP8CdOtlxQU9XobkwGcU8Uha5zOCZw3ugoQiY0QkG5s8uF9/qF8g9l\nSBnzE5LXE0NfpwgYfM+FQshi4QKBgQDRQSm+kYE/C0Xg0dz2/buhmKeoVASm1rop\n9FV7zaVEFYn66rRJnXFPGRqrDDjYLf0yCCtqb/uEUA7l+67iOPSJ2179APqYErkL\nBkew3t7sXp4VQWNhTA7aTasItCxYSWmmhdLoDwaaNugebKMOXXFkjAYpru5v02Uu\n6kdNm0XMuQKBgAUZaaYH+lcpD+ut+nSKJHLYdkJtAlzGh/MXbKMy/R+aoRKjZ3Jx\nxIdLpimgE0HP9t+49/XT9WhM6JUmWK1f4huTOTk/aIxkEnU5oqkctDe9FRo/5AQW\nFIJLikFRxDUh9Z+v/56WYSjh6AoL6JDvG03Ig3R39y4PqlLLFF+nEVkhAoGAb8zY\nB9hn7I4SVK7r1w7z27/a++V/4r/hER9ZON9DyF+Vq/kQQDCdZHxuMitCh8XyfHO+\n9oxEHopDm37gDkAN70XEt3p5aRy/vvMpBIffJPzci1C3Tzm6ycorcmgJNVZr2yuu\n5ot4pJZnaDH04Gzuc6EYfdbXz+lrKyjC1eT64wkCgYEAwrF21eP0gMvWE5mdD9/8\nVXHJN7nJ9/UpEhlTJ2HUGnWq0l18QgCwgltuDX1JH/nRYkcW9wZfhJsO1iAqh3d/\naEGsI+oXFq2KkYCLSlhApszwE4gWAUDw3SIedoz7QaPyBR2FA5RAPVyl/ML3/+wg\nFIY09QRGc9VuqThVAr/nF8A=\n-----END PRIVATE KEY-----\n",
+  "client_email": "seamstress-sheets@seamstressmanager.iam.gserviceaccount.com",
+  "client_id": "105688004793742633811",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/seamstress-sheets%40seamstressmanager.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
